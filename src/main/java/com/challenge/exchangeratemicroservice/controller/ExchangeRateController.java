@@ -32,7 +32,7 @@ public class ExchangeRateController {
     @Value("${symbols:GBP,HKD,USD}")
     private String symbols;
     @Value("${ext_service_url:http://api.exchangeratesapi.io/v1/}")
-_    private String externalServiceUrl;
+    private String externalServiceUrl;
 
     @Autowired
     private ExchangeRateRepository repository;
