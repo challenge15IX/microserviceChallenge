@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "access.key",
+      "type": "java.lang.String",
+      "description": "Description for access.key."
+  }
+] }
